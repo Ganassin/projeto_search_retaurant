@@ -1,5 +1,7 @@
 # *Problema de Negócio*
 
+https://projetosearchretaurant.streamlit.app/
+
 Em um contexto onde acabo de ser contratado como Cientista de Dados da empresa
 Fome Zero, e a minha principal tarefa nesse momento é ajudar o CEO a identificar pontos chaves da empresa, respondendo às perguntas que ele fizer
 utilizando dados!
